@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  background-color:gold
+}
+
+
+ input{
+  text-align: center;
+  width: 905px;
+  height:35px;
+ }
+
+
+  h1{
+    text-align:center
+  }
+
+  .button{
+   margin-left: 800px;
+   width: 60px;
+   height:45px;
+   background-color:lightblue
+  }
+
+
+
+.button1{
+  margin-left: 800px;
+  width: 100px;
+  height:35px;
+  background-color: red
+}
+
+
+
+ .button2{
+  margin-left: 800px;
+  width: 100px;
+  height:35px;
+  background-color: green
+ }
